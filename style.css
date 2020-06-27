@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+p {
+  margin: 20px auto 20px auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+
+}
+
+
+span{
+  text-decoration: underline;
+  font-style: oblique;
+}
+
+h1 {
+  font-family: Lobster, cursive;
+}
+
+h2 {
+  color: red;
+  margin: 20px auto 20px auto;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted;
+  border-bottom: none;
+  color: grey;
+  border-width: 10px;
+
+}
+
+
+.fotocve {
+  border-radius: 100%;
+  width: 15%;
+  margin: 50px auto;
+}
+
+.factrows {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.Wolf{
+  width: 35%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 50px;
+}
+
+.Wolf2 {
+  width: 35%;
+  float: right;
+  margin-left: 50px;
+
+}
+
+
+.power2{
+    width: 50%;
+}
+
+
+
+.mid-container {
+
+
+}
+
+
+.top-container {
+  background-color: grey;
+  width: 100%;
+  position:relative;
+  padding-top: 10px;
+}
+
+.bottom-container {
+
+  background-color: red;
+  position: absolute;
+  width: 100%;
+  ;
+
+}
+
+.twitter  {
+  width: 600px;
+  height: 300px;
+ filter: invert(1);
+}
